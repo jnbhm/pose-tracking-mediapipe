@@ -2,7 +2,7 @@
 
 This is an example how to use the pose landmark detection model with MediaPipe. Find the full description of the model [here.](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
 
-To run this project you'll need to have [Node.js](https://nodejs.org/en) installed on your machine. The project was set up with [vite](https://vite.dev/).
+To run this project you'll need to have [Node.js](https://nodejs.org/en) installed on your machine.
 
 ## [DEMO](http://pld.tdbr.xyz/)
 
