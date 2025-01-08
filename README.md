@@ -4,8 +4,6 @@ This is an example how to use the pose landmark detection model with MediaPipe. 
 
 To run this project you'll need to have [Node.js](https://nodejs.org/en) installed on your machine.
 
-## [DEMO](http://pld.tdbr.xyz/)
-
 ## Dev
 
 To start this project run the following command in the root folder of the project.
